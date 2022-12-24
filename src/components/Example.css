@@ -1,0 +1,17 @@
+.all-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.all-buttons h1 {
+  color: #76d4fd;
+}
+
+.all-buttons button {
+  background-color: #76d4fd;
+  border: none;
+  padding: 5px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
